@@ -1,0 +1,1 @@
+ch = str(input("enter the char"))
